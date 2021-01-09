@@ -1,0 +1,10 @@
+{
+  "extends": "react-app",
+  "globals": {
+    "chrome": "readonly"
+  },
+  "rules": {
+    "import/no-anonymous-default-export": 0,
+    "react-hooks/exhaustive-deps": 0
+  }
+}

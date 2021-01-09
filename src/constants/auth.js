@@ -1,0 +1,9 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAILURE = 'LOGIN_USER_FAILURE';
+export const RESET_LOGGED_IN_USER = 'RESET_LOGGED_IN_USER';
+export const FETCH_ME = 'FETCH_ME';
+export const FETCH_ME_SUCCESS = 'FETCH_ME_SUCCESS';
+export const FETCH_ME_FAILURE = 'FETCH_ME_FAILURE';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const RESET = 'RESET';

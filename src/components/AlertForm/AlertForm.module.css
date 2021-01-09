@@ -1,0 +1,8 @@
+.alertForm {
+  display: flex;
+  flex-direction: 'column';
+  flex: 0;
+}
+.row {
+  margin: 15px 5px;
+}
