@@ -8,6 +8,8 @@ Once the extension is installed, log into your Blaze Capital account. To add an 
 select a stock ticker by highlighting the text then click on the BC extension icon. Select
 which list and timefame you'd like to add an alert for an click Save.\
 
+<img src="src/assets/img/BlazeExample.gif" width="480"/>
+
 ## Develop
 
 1. Check if your [Node.js](https://nodejs.org/) version is >= **14**.
